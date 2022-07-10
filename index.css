@@ -1,0 +1,16 @@
+* {
+    color: white;
+    font-family: "Microsoft YaHei";
+}
+
+body {
+    font-size: 20px;
+    background-image: url(Images/bg.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
