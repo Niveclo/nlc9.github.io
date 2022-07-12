@@ -1,0 +1,160 @@
+* {
+    font-family: "Microsoft YaHei";
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 20px;
+    background-color: black;
+    background-image: url(Images/bg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+#logo {
+    float: left;
+    width: 20vw;
+    text-align: center;
+}
+
+#logo a {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10%;
+    width: 9vw;
+    height: 10vh;
+    line-height: 10vh;
+}
+
+#logo a:hover {
+    box-shadow: 5px 5px 10px 1px white;
+}
+
+.nav {
+    margin: 0 auto;
+    width: 100vw;
+    height: 10vh;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    width: 20vw;
+    height: 10vh;
+    float: left;
+    list-style: none;
+    text-align: center;
+}
+
+.nav ul li a {
+    display: inline-block;
+    width: 10vw;
+    height: 10vh;
+    font-size: 20px;
+    line-height: 10vh;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    border-bottom: 4px solid white;
+}
+
+.bot {
+    margin: 0 auto;
+    margin-top: 180vh;
+    width: 30vw;
+    height: 20vh;
+    text-align: center;
+}
+
+.up a {
+    font-size: 60px;
+    text-decoration: none;
+}
+
+/* .home {
+    position: fixed;
+    top: 10%;
+    right: 10px;
+    float: right;
+    width: 90px;
+    height: 90px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    line-height: 90px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.home:hover {
+    margin-top: -1px;
+    box-shadow: 5px 5px 10px 1px gray;
+}
+
+.head {
+    margin: 0 auto;
+    font-size: 40px;
+    width: 1540px;
+    height: 100px;
+}
+
+.index,
+.games,
+.other,
+.info {
+    float: left;
+    background-color: rgb(125, 127, 128);
+    height: 100px;
+    width: 385px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover {}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.YE {
+    width: 600px;
+    margin: 10px 600px;
+}
+
+.green {
+    color: green;
+} */
+
+/* .nav {
+    background-color: lightgray;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    /* border-radius: 10%; */
+
+
+
+/* .nav:hover {
+    box-shadow: 5px 5px 10px 1px gray;
+    /* box-shadow: 水平阴影距离 垂直阴影距离 
+    模糊距离 阴影尺寸 阴影颜色 内外部（默认外部outset省略不写）; */

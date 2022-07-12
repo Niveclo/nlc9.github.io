@@ -1,0 +1,70 @@
+* {
+    font-family: "Microsoft YaHei";
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 20px;
+    background-color: white;
+}
+
+#logo {
+    float: left;
+    width: 20vw;
+    background-color: rgb(48, 90, 226);
+    text-align: center;
+}
+
+#logo a {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10%;
+    width: 9vw;
+    height: 10vh;
+    line-height: 10vh;
+}
+
+#logo a:hover {
+    box-shadow: 5px 5px 10px 1px white;
+}
+
+.nav {
+    margin: 0 auto;
+    width: 100vw;
+    height: 10vh;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    float: left;
+    width: 20vw;
+    height: 10vh;
+    background-color: rgb(48, 90, 226);
+    list-style: none;
+    text-align: center;
+}
+
+.nav ul li a {
+    display: inline-block;
+    width: 10vw;
+    height: 10vh;
+    font-size: 20px;
+    line-height: 10vh;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    background-color: rgb(15, 51, 172);
+}
+
+h2 {
+    margin-top: 300px;
+    text-align: center;
+    color: black;
+}
